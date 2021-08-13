@@ -1,0 +1,1 @@
+This is a basic showcase for a Camunda Spring Boot application using a https://github.com/camunda-community-hub/camunda-bpm-identity-keycloak
